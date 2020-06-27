@@ -6,3 +6,4 @@ Harry Potter ist eine Kinder- und Jugendromanreihe der englischen Schriftsteller
 * isst am liebsten Klebstoff
 * liebt Rosen 
 > Abrakadabra, dreimal schwarzer Kater!
+<img src="https://i.computer-bild.de/imgs/1/2/5/6/4/4/4/5/Harry-Potter-Rollenspiel-2048x1152-57b87f5a274d1a9c.jpg">
