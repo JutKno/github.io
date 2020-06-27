@@ -5,3 +5,4 @@ Harry Potter ist eine Kinder- und Jugendromanreihe der englischen Schriftsteller
 * mag Kako
 * isst am liebsten Klebstoff
 * liebt Rosen 
+> Abrakadabra, dreimal schwarzer Kater!
